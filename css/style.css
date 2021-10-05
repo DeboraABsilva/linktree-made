@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-    background: url('/IMG/praia.jpg.jpg') center;
+    background: url('../IMG/praia.jpg.jpg') center;
     background-size: cover;
     color: rgb(88, 42, 42);
     font-family: 'Bebas Neue', cursive;
