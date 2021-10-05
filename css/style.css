@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background: url('/IMG/praia.jpg.jpg') center;
+    background-size: cover;
+    color: rgb(88, 42, 42);
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 80px;
+    box-shadow: 0 0 20px rgb(231, 192, 118);
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.links-list {
+    list-style: none;
+}
+
+.links-list li {
+    margin: 10px 20px;
+}
+
+.links-list li a {
+    display: block;
+    color: rgb(88, 42, 42);
+    background: rgba(190, 148, 39, 0.459);
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;   
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 0 7px rgb(88, 42, 42);
+}
+
+
+
